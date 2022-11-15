@@ -1,0 +1,13 @@
+exercise\annotationvip\Qualifier.class
+exercise\annotationvip\PostConstructor.class
+exercise\client\UserAccountClientComponent.class
+exercise\injector\AppContext.class
+exercise\services\UserServiceImpl.class
+exercise\UserApplication.class
+exercise\annotationvip\Autowired.class
+exercise\injector\AppContextUtil.class
+exercise\annotationvip\Component.class
+exercise\services\AccountServiceImpl.class
+exercise\services\UserService.class
+exercise\services\AccountService.class
+exercise\services\AccountServiceImplNew.class
